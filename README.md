@@ -1,4 +1,4 @@
-# **"Leveraging Uncertainty Quantification for Reducing Data for Recommender Systems"**
+# **Leveraging Uncertainty Quantification for Reducing Data for Recommender Systems**
 📌 Presented at the **2023 IEEE International Conference on Big Data (BigData)**  
 
 This project explores **uncertainty-aware data reduction strategies** for recommender systems, balancing **data minimization** and **recommendation utility** while considering **privacy regulations** such as the **California Consumer Privacy Act (CCPA)**.
