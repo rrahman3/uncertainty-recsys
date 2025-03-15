@@ -66,23 +66,6 @@ We estimate uncertainty using **Bayesian Neural Networks (BNN)** with **Monte Ca
 
 ---
 
-## 🛠 Installation  
-
-### 📌 Prerequisites  
-Ensure you have the following dependencies installed:  
-- Python 3.8+  
-- PyTorch  
-- NumPy, Pandas  
-- scikit-learn  
-- Matplotlib, Seaborn  
-
-### 🔧 Setup  
-Clone this repository and install dependencies:  
-```bash
-git clone https://github.com/your-repo/uncertainty-recsys.git
-cd uncertainty-recsys
-pip install -r requirements.txt
-
 
 @inproceedings{niu2023leveraging,
   author    = {Xi Niu, Ruhani Rahman, Xiangcheng Wu, Zhe Fu, Depeng Xu, Riyi Qiu},
