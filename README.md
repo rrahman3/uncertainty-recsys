@@ -61,10 +61,13 @@ We estimate uncertainty using **Bayesian Neural Networks (BNN)** with **Monte Ca
 
 ---
 
-
+## 🔗 Citation
+If you find this work useful, please cite:
+```
 @inproceedings{niu2023leveraging,
   author    = {Xi Niu, Ruhani Rahman, Xiangcheng Wu, Zhe Fu, Depeng Xu, Riyi Qiu},
   title     = {Leveraging Uncertainty Quantification for Reducing Data for Recommender Systems},
   booktitle = {IEEE International Conference on Big Data (BigData)},
   year      = {2023}
 }
+```
