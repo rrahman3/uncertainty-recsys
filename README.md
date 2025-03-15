@@ -1,8 +1,3 @@
-# Uncertainty-Aware Recommender Systems
-
-## Overview  
-This repository contains the implementation and experiments for the paper:  
-
 **"Leveraging Uncertainty Quantification for Reducing Data for Recommender Systems"**  
 📌 Presented at the **2023 IEEE International Conference on Big Data (BigData)**  
 
